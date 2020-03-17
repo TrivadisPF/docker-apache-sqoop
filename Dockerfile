@@ -1,4 +1,4 @@
-FROM trivadis/apache-hadoop-base:2.0.0-hadoop3.2.1-java8
+FROM bde2020/apache-hadoop-base:2.0.0-hadoop3.2.1-java8
 
 MAINTAINER Guido Schmutz <guido.schmutz@trivadis.com>
 
